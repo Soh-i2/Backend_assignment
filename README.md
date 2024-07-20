@@ -1,6 +1,7 @@
 The following message is generated when post request for signup  is made using postman
+![image](https://github.com/user-attachments/assets/6b4f958a-451a-4cc1-af4e-56b13d3671a4)
 
-![Screenshot 2024-07-20 000948](https://github.com/user-attachments/assets/67c8a5f2-17f2-43d9-b328-654589922450)
+
 
 The error message received is-
 
