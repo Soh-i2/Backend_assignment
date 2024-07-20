@@ -1,5 +1,7 @@
-The following message is generated when post request for signup  is made using postman
-![image](https://github.com/user-attachments/assets/6b4f958a-451a-4cc1-af4e-56b13d3671a4)
+The following message is generated when post request for signup  is made using postman for a new user
+
+![image](https://github.com/user-attachments/assets/862ee439-4eeb-4fa3-b329-b3b8b9f9d938)
+
 
 
 
